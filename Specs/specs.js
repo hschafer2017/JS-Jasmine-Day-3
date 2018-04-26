@@ -71,7 +71,7 @@ describe("Multiplication Function", function() {
           expect(window.alert).toHaveBeenCalledWith("You can't divide by zero!"); 
       }); 
       it("should show an alert if we only supply one number", function(){
-         spyOn(window, "alert"); 
+         spyOn(window, "aledescribrt"); 
           division(15); 
           expect(window.alert).toHaveBeenCalledWith("You can't divide by zero!");
      });
