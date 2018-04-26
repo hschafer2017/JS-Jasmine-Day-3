@@ -1,0 +1,7 @@
+Refactoring and optimization are not the same thing - may cause your code to run differently than how it ran before. 
+
+JASMINE ORDER: jasmine.js; jasmine-html.js; boot.js; jasmine.css
+    - you can use the min file to save on load time; they are the same as the regular file 
+UNDERNEATH JASMINE TAGS: 
+    - BOOTSRAP: Bootstrap CSS; Bootstrap jQuery; Bootstrap JS 
+    - Your CSS
